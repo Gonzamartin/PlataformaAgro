@@ -12,6 +12,7 @@ Una aplicación nativa de escritorio para Windows desarrollada en **C# (.NET)**,
   * **APTO (Verde):** Condiciones seguras de trabajo (Viento entre 5 y 15 km/h, temperatura menor a 30°C).
   * **NO APTO (Rojo):** Advierte riesgos críticos como **Deriva** (vientos altos), **Inversión Térmica** (vientos nulos) o **Evaporación** (calor crítico).
 * **Exportación Comercial y Trazabilidad (CSV) 💾:** Sistema de almacenamiento incremental local. Con un solo clic, guarda una orden de trabajo con sello de fecha y hora directamente en un archivo compatible con **Microsoft Excel**.
+<img width="502" height="708" alt="image" src="https://github.com/user-attachments/assets/f3dada3e-fcb0-4f7e-acfb-da2b1d884c2f" />
 
 ---
 
